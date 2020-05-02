@@ -1,2 +1,2 @@
-# miniPrograme_tomatoWork
-番茄工作法
+# 番茄工作法
+<img src="tomato工作法.jpg" width="200px">
